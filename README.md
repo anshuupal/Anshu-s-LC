@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anshuupal/Anshuu/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/anshuupal/Anshu-s-LC/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anshuupal/Anshuu/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/anshuupal/Anshu-s-LC/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anshuupal/Anshuu/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshuupal/Anshu-s-LC/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
