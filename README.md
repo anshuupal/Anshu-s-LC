@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/anshuupal/Anshuu/tree/master/0027-remove-element) |
 | [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
+| [1768-merge-strings-alternately](https://github.com/anshuupal/Anshu-s-LC/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshuupal/Anshu-s-LC/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/anshuupal/Anshu-s-LC/tree/master/0049-group-anagrams) |
+| [1768-merge-strings-alternately](https://github.com/anshuupal/Anshu-s-LC/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
