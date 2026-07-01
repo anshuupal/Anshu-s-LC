@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anshuupal/Anshu-s-LC/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anshuupal/Anshuu/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0219-contains-duplicate-ii) |
+| [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/anshuupal/Anshuu/tree/master/0027-remove-element) |
+| [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/anshuupal/Anshu-s-LC/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anshuupal/Anshuu/tree/master/0169-majority-element) |
+| [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
 | ------- |
@@ -53,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
