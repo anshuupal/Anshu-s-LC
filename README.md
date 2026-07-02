@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anshuupal/Anshu-s-LC/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/anshuupal/Anshuu/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/anshuupal/Anshu-s-LC/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuupal/Anshu-s-LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anshuupal/Anshuu/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0219-contains-duplicate-ii) |
 | [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/anshuupal/Anshuu/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuupal/Anshu-s-LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/anshuupal/Anshu-s-LC/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuupal/Anshu-s-LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
