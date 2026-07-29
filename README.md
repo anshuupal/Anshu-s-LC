@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/anshuupal/Anshu-s-LC/tree/master/1006-clumsy-factorial) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuupal/Anshu-s-LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anshuupal/Anshuu/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anshuupal/Anshu-s-LC/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anshuupal/Anshuu/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anshuupal/Anshu-s-LC/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anshuupal/Anshu-s-LC/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anshuupal/Anshuu/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
@@ -89,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuupal/Anshu-s-LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
