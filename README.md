@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshuupal/Anshuu/tree/master/0169-majority-element) |
+| [1708-design-parking-system](https://github.com/anshuupal/Anshu-s-LC/tree/master/1708-design-parking-system) |
 ## String
 |  |
 | ------- |
@@ -140,4 +141,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1006-clumsy-factorial](https://github.com/anshuupal/Anshu-s-LC/tree/master/1006-clumsy-factorial) |
+| [1708-design-parking-system](https://github.com/anshuupal/Anshu-s-LC/tree/master/1708-design-parking-system) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/anshuupal/Anshu-s-LC/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
