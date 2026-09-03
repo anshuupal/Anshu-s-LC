@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anshuupal/Anshu-s-LC/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/anshuupal/Anshu-s-LC/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
 | [2815-max-pair-sum-in-an-array](https://github.com/anshuupal/Anshu-s-LC/tree/master/2815-max-pair-sum-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anshuupal/Anshu-s-LC/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuupal/Anshu-s-LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anshuupal/Anshu-s-LC/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/anshuupal/Anshu-s-LC/tree/master/1768-merge-strings-alternately) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anshuupal/Anshuu/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anshuupal/Anshu-s-LC/tree/master/0349-intersection-of-two-arrays) |
 | [2815-max-pair-sum-in-an-array](https://github.com/anshuupal/Anshu-s-LC/tree/master/2815-max-pair-sum-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anshuupal/Anshu-s-LC/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anshuupal/Anshuu/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anshuupal/Anshu-s-LC/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuupal/Anshu-s-LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anshuupal/Anshu-s-LC/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/anshuupal/Anshu-s-LC/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
