@@ -10,8 +10,8 @@ public:
         }
 
         
-        for (int i = 0; i < nums2.size(); i++) {
-            nums.push_back(nums2[i]);
+        for (int j = 0; j < nums2.size(); j++) {
+            nums.push_back(nums2[j]);
         }
 
         
