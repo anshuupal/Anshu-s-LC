@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshuupal/Anshu-s-LC/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshuupal/Anshu-s-LC/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/anshuupal/Anshu-s-LC/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anshuupal/Anshu-s-LC/tree/master/0015-3sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshuupal/Anshu-s-LC/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anshuupal/Anshu-s-LC/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/anshuupal/Anshu-s-LC/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anshuupal/Anshu-s-LC/tree/master/0049-group-anagrams) |
