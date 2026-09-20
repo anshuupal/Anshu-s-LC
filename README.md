@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuupal/Anshu-s-LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anshuupal/Anshuu/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anshuupal/Anshu-s-LC/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0287-find-the-duplicate-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anshuupal/Anshu-s-LC/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anshuupal/Anshuu/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anshuupal/Anshu-s-LC/tree/master/0349-intersection-of-two-arrays) |
 | [0706-design-hashmap](https://github.com/anshuupal/Anshu-s-LC/tree/master/0706-design-hashmap) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anshuupal/Anshu-s-LC/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anshuupal/Anshu-s-LC/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anshuupal/Anshuu/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anshuupal/Anshu-s-LC/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshuupal/Anshuu/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0229-majority-element-ii) |
 | [1708-design-parking-system](https://github.com/anshuupal/Anshu-s-LC/tree/master/1708-design-parking-system) |
 ## String
 |  |
@@ -188,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/anshuupal/Anshu-s-LC/tree/master/0706-design-hashmap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
