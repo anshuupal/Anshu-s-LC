@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anshuupal/Anshu-s-LC/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/anshuupal/Anshu-s-LC/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/anshuupal/Anshu-s-LC/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/anshuupal/Anshu-s-LC/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anshuupal/Anshu-s-LC/tree/master/0706-design-hashmap) |
 | [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
 | [2815-max-pair-sum-in-an-array](https://github.com/anshuupal/Anshu-s-LC/tree/master/2815-max-pair-sum-in-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anshuupal/Anshu-s-LC/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/anshuupal/Anshu-s-LC/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/anshuupal/Anshu-s-LC/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anshuupal/Anshu-s-LC/tree/master/0706-design-hashmap) |
 | [2815-max-pair-sum-in-an-array](https://github.com/anshuupal/Anshu-s-LC/tree/master/2815-max-pair-sum-in-an-array) |
 ## Divide and Conquer
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/anshuupal/Anshu-s-LC/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anshuupal/Anshu-s-LC/tree/master/0706-design-hashmap) |
 | [1708-design-parking-system](https://github.com/anshuupal/Anshu-s-LC/tree/master/1708-design-parking-system) |
 ## Prefix Sum
@@ -190,10 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/anshuupal/Anshu-s-LC/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anshuupal/Anshu-s-LC/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/anshuupal/Anshu-s-LC/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anshuupal/Anshu-s-LC/tree/master/0706-design-hashmap) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
