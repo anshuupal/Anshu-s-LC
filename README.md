@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuupal/Anshu-s-LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anshuupal/Anshu-s-LC/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/anshuupal/Anshu-s-LC/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/anshuupal/Anshu-s-LC/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/anshuupal/Anshu-s-LC/tree/master/1768-merge-strings-alternately) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anshuupal/Anshu-s-LC/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/anshuupal/Anshu-s-LC/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/anshuupal/Anshu-s-LC/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/anshuupal/Anshu-s-LC/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anshuupal/Anshu-s-LC/tree/master/0706-design-hashmap) |
 | [2815-max-pair-sum-in-an-array](https://github.com/anshuupal/Anshu-s-LC/tree/master/2815-max-pair-sum-in-an-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anshuupal/Anshu-s-LC/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/anshuupal/Anshu-s-LC/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/anshuupal/Anshu-s-LC/tree/master/0412-fizz-buzz) |
+| [0567-permutation-in-string](https://github.com/anshuupal/Anshu-s-LC/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/anshuupal/Anshu-s-LC/tree/master/1768-merge-strings-alternately) |
 ## Trie
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshuupal/Anshu-s-LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/anshuupal/Anshu-s-LC/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
