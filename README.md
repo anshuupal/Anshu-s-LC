@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anshuupal/Anshu-s-LC/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/anshuupal/Anshu-s-LC/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/anshuupal/Anshu-s-LC/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/anshuupal/Anshu-s-LC/tree/master/0507-perfect-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anshuupal/Anshuu/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/anshuupal/Anshu-s-LC/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/anshuupal/Anshu-s-LC/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/anshuupal/Anshu-s-LC/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anshuupal/Anshu-s-LC/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anshuupal/Anshu-s-LC/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anshuupal/Anshu-s-LC/tree/master/0075-sort-colors) |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anshuupal/Anshu-s-LC/tree/master/0229-majority-element-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/anshuupal/Anshu-s-LC/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
